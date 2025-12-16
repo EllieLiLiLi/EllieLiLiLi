@@ -2,6 +2,7 @@
 
 I'm a **Data Scientist / Applied AI practitioner** with a strong foundation in **analytics x business intelligence x storytelling x modeling**, and hands-on experience building **end-to-end machine learning and LLM-powered systems**.  
 I enjoy turning messy data and complex models into practical, business-relevant solutions.
+I explored different industries and the border of a data worker. Collected experienced and deep reflections make me stronger.
 
 Currently a new graduate with my degree of **M.S. in Applied Data Science at the University of Chicago** (Dec 2025).
 
@@ -26,6 +27,12 @@ I’m especially excited about roles where **models, data, and real-world impact
 - Power BI, DAX, Excel
 - Git, Docker (basic), Linux, Colab
 
+**Data & Analytics**
+- Data modeling (fact/dimension design)
+- Customer analytics (NPS, CSAT, churn, CLV)
+- Dashboarding & stakeholder-facing insights
+- Business metric design & interpretation
+
 **Machine Learning & AI**
 - Supervised & ensemble models (RF, XGBoost, Gradient Boosting)
 - Feature engineering & model evaluation
@@ -33,11 +40,6 @@ I’m especially excited about roles where **models, data, and real-world impact
 - Embeddings, vector databases (e.g. Chroma)
 - Agentic & tool-augmented LLM systems
 
-**Data & Analytics**
-- Data modeling (fact/dimension design)
-- Customer analytics (NPS, CSAT, churn, CLV)
-- Dashboarding & stakeholder-facing insights
-- Business metric design & interpretation
 
 ---
 
