@@ -1,4 +1,4 @@
-# Hi, I'm Jiayi (Ellie) Li 👋
+# Hi, I'm Ellie Li 👋
 
 I'm a **Data Scientist / Applied AI practitioner** with a strong foundation in **analytics x business intelligence x storytelling x modeling**, and hands-on experience building **end-to-end machine learning and LLM-powered systems**.  
 I enjoy turning messy data and complex models into practical, business-relevant solutions.
