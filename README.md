@@ -4,7 +4,7 @@
 - I enjoy turning messy data and complex models into practical, business-relevant solutions.
 - I explored different industries and the border of a data worker. Collected experienced and deep reflections make me stronger.
 
-Currently a new graduate with my degree of **M.S. in Applied Data Science at the University of Chicago** (Dec 2025).
+Currently a new graduate with my degree of **M.S. in Applied Data Science at the UChicago** (Dec 2025) and **B.S. in Business Economics at UC San Diego**.
 
 ---
 
