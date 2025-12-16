@@ -41,24 +41,51 @@ I’m especially excited about roles where **models, data, and real-world impact
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Selected Projects & Experience Highlights
 
-### 🩺 Domain-Specialized Medical LLM (Capstone)
-- Built and evaluated a **medical QA LLM** with retrieval-augmented generation (RAG)
-- Benchmarked against domain baselines (e.g. RadGPT-style systems)
-- Explored **LoRA fine-tuning, prompt strategies, and reliability evaluation**
-- Focus on **clinical usability & business impact**, not just model scores
+### 🩺 Domain-Specialized Medical LLM (Capstone | Data Scientist | Healthcare)
+**Inference Analytics AI · Chicago**
+- Partnered with healthcare stakeholders to translate clinical QA pain points into a deployable **LLM-based solution** under regulatory constraints (HIPAA/GDPR-aware).
+- Fine-tuned **LLaMA 2/3 (7B & 13B)** using **PEFT-LoRA, Momentum-FT, and DPO**, achieving measurable gains in faithfulness and relevance with minimal latency tradeoff.
+- Designed a **4-metric reliability evaluation framework** (Faithfulness, Answer Relevance, Context Precision, Context Recall) with statistical testing to support release decisions.
+- Deployed an end-to-end **FastAPI + vLLM + Gradio** demo on GCP, validating cost-efficient adaptation strategies for real-world medical QA use.
 
-### ✈️ Agentic AI Assistant (Hackathon)
-- Designed a **multi-agent, tool-using AI system** for real-world product discovery
-- Integrated RAG + web search for freshness and grounding
-- Emphasis on **system design, orchestration, and UX**, not just generation
+---
 
-### 📊 Customer Experience Analytics (Industry Internship)
-- Built **Power BI dashboards** tracking NPS, CSAT, and engagement
-- Designed clean **semantic models** across CRM & survey data
-- Translated ambiguous business questions into measurable KPIs
-- Enabled leadership to identify drivers of satisfaction & retention
+### 📊 Customer Experience & Retention Analytics (Industry Internship | Data Analyst | Supply Chain Management & Customer Success)
+**Waldom Electronics**
+- Processed **1M+ CRM and ERP records** using Python and PySpark, applying KNN imputation and anomaly detection (Isolation Forest) to improve data reliability.
+- Built optimized **SQL pipelines (CTEs, partition pruning)** in BigQuery, reducing daily refresh time by 90% for analytics workflows.
+- Developed **churn-risk models and behavioral clustering** to segment distributor accounts and inform targeted retention strategies.
+- Designed and deployed **Power BI dashboards** (NPS, CSAT, complaints, resolution time) that enabled leadership to identify operational bottlenecks and prioritize resource allocation.
+- Automated weekly executive reporting via Python and Databricks, improving cross-team visibility into customer health metrics.
+
+---
+
+### 📈 Product & Growth Analytics (Internship | Product Data Analyst | AI Copilot Product)
+**DataLynn**
+- Designed and analyzed **pricing A/B tests** for an interview copilot product, validating conversion lift and informing monetization strategy.
+- Modeled **feature adoption and activation drivers** using Random Forest and XGBoost on 200K+ interaction logs.
+- Built model-informed dashboards to track adoption probability and elasticity across user segments.
+- Evaluated Copilot vs GPT-4 outputs using **BERTScore and embedding similarity**, contributing to internal model QA and tuning decisions.
+
+---
+
+### 📉 Applied Economics & Causal Modeling (Research | Data Scientist | Econometrics & Labor Economics)
+**UC San Diego · Economics Department**
+- Integrated large-scale labor, macroeconomic, and M&A datasets (BLS, BEA, PitchBook) for applied economic analysis.
+- Built **time-series forecasting models (SARIMA)** to study labor demand dynamics under policy and market shocks.
+- Applied **Difference-in-Differences** and causal inference techniques to quantify heterogeneous policy effects.
+- Developed interpretable predictive models (Logistic, Random Forest + SHAP) to identify drivers of hiring success.
+
+---
+
+### ✈️ Agentic AI Assistant for Airline Support (Hackathon | Data Scientist)
+**United Airlines GenAI Hackathon**
+- Built a **RAG-based, multilingual airline support assistant** combining real-time operational data with policy and FAQ knowledge.
+- Designed a **multi-agent dispatcher** to route intents across booking, disruption management, and loyalty workflows.
+- Delivered a working prototype demonstrating **agentic LLM orchestration** and data-grounded reasoning for customer support use cases.
+
 
 ---
 
@@ -76,17 +103,19 @@ I’m comfortable operating anywhere along this spectrum, depending on the probl
 
 ## 📈 What I’m Working On Now
 
-- Advanced ML & AI coursework (UChicago)
-- LLM system reliability & evaluation
-- Improving end-to-end ML + analytics project polish
+- Industry learning
 - Preparing for **DS / Applied AI / Analytics roles**
+- Improving end-to-end ML + analytics project polish
+- Advanced ML & AI coursework
+- LLM system reliability & evaluation
+
+
 
 ---
 
 ## 📫 Let’s Connect
 
 - GitHub: [github.com/EllieLiLiLi](https://github.com/EllieLiLiLi)
-- LinkedIn: *(add link if you want)*
-- Email: *(optional)*
+- Email: jiayi.li.ellie@gmail.com
 
 Thanks for stopping by!
