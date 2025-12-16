@@ -1,123 +1,92 @@
-# 👋 Hey you are here! Welcome to EllieLiLiLi's GitHub!
+# Hi, I'm Jiayi (Ellie) Li 👋
 
-## About Me
-🌍 **Location**: Chicago, IL  
-🎓 **Education**: Graduate Student in Applied Data Science at the University of Chicago & UC San Diego Alumni
-💡 **Interests**: Data Analytics, Machine Learning, Statistical Modeling, and Cloud Computing  
-🔍 **Current Focus**: Leveraging data-driven approaches to solve real-world problems, with a passion for impactful analytics.
+I'm a **Data Scientist / Applied AI practitioner** with a strong foundation in **analytics x business intelligence x storytelling x modeling**, and hands-on experience building **end-to-end machine learning and LLM-powered systems**.  
+I enjoy turning messy data and complex models into practical, business-relevant solutions.
 
----
-
-## 🛠️ Technical Skills
-
-**💻 Programming Languages**:
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-- ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
-- ![Stata](https://img.shields.io/badge/-Stata-1F45B5?logo=stata&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![Git](https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white)
-
-**🌐 Cloud & Big Data**:
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
-- ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
-- **Apache Spark** 🧠
-
-**📊 Data Science & Analytics**:
-- ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
-- **Machine Learning** 🧑‍💻
-- **Time Series** 📈
-- **NLP** 📚
-- **ETL** 🔄
-
-**📊 Data Visualization**:
-- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
-- **Power BI** 📊
+Currently a new graduate with my degree of **M.S. in Applied Data Science at the University of Chicago** (Dec 2025).
 
 ---
 
-## 📈 Work Experience Highlights
+## 🔍 What I’m Interested In
 
-### 💻 **Data Analyst Intern at DataLynn**
-- Automated data extraction workflows, increasing efficiency by 20%.
-- Improved data classification accuracy using machine learning.
-- Led A/B testing initiatives, achieving a 5% improvement in conversion rates.
+- **Data Science & Applied Machine Learning**
+- **Applied AI / Generative AI (LLMs, RAG, agentic systems)**
+- **Product & Business Analytics (DA / BIE-ready roles)**
+- **ML systems that actually get used**, not just trained
 
-### 📊 **Research Assistant at UC San Diego Economics Dept.**
-- Analyzed labor market shifts during the COVID-19 pandemic using Stata and Python.
-- Contributed to studies on job transparency and M&A impacts, uncovering 10+ significant changes in the tech sector.
-
-### 🌐 **Financial Data Analyst Intern at Deloitte Consulting**
-- Enhanced financial reporting accuracy by 20% through reconciliation and validation.
-- Automated data workflows using SQL, improving benchmarking study efficiency by 15%.
+I’m especially excited about roles where **models, data, and real-world impact intersect**.
 
 ---
 
-## 🌟 Highlight Projects
+## 🧠 Technical Focus
 
-### 📊 **Data-Driven Customer Analysis**
-- **Objective**: Improve customer targeting for marketing.
-- **Approach**: Scraped and analyzed 2M+ social media posts using Python, UMAP, and K-Means clustering.
-- **Impact**: Enhanced customer segmentation strategies, improving marketing effectiveness.
+**Languages & Tools**
+- Python, SQL, R
+- Pandas, NumPy, scikit-learn, PyTorch
+- Power BI, DAX, Excel
+- Git, Docker (basic), Linux, Colab
 
-### 🖼️ **KNN Image Classifier**
-- **Objective**: Develop a robust image classification model.
-- **Approach**: Built a data pipeline in Python, leveraging KNN and 3D matrix manipulation.
-- **Result**: Achieved ~95% accuracy in image classification, efficiently handling large datasets.
+**Machine Learning & AI**
+- Supervised & ensemble models (RF, XGBoost, Gradient Boosting)
+- Feature engineering & model evaluation
+- NLP & LLMs (RAG, prompt engineering, fine-tuning, LoRA)
+- Embeddings, vector databases (e.g. Chroma)
+- Agentic & tool-augmented LLM systems
 
-### 🚀 **Automated Workflows at DataLynn**
-- **Challenge**: Data processing inefficiencies.
-- **Solution**: Automated workflows, improving efficiency by 20%.
-- **Outcome**: Improved text classification accuracy by 10%, reducing manual work.
-
----
-
-## 🧑‍🔬 Research Contributions
-- **Labor Economics**: Contributed to research analyzing COVID-19’s impact on labor markets.
-- **Data Automation**: Developed workflows to handle large demographic datasets, boosting efficiency by 10%.
+**Data & Analytics**
+- Data modeling (fact/dimension design)
+- Customer analytics (NPS, CSAT, churn, CLV)
+- Dashboarding & stakeholder-facing insights
+- Business metric design & interpretation
 
 ---
 
-## 🔍 Selected Data Projects
+## 🚀 Selected Projects
 
-### **Data-Driven Product Marketing**
-- **Tools**: Python, Media Crawler, Google Colab
-- **Techniques**: Unsupervised Learning, Social Media Analytics
-- **Result**: Improved customer segmentation, leading to enhanced marketing strategies.
+### 🩺 Domain-Specialized Medical LLM (Capstone)
+- Built and evaluated a **medical QA LLM** with retrieval-augmented generation (RAG)
+- Benchmarked against domain baselines (e.g. RadGPT-style systems)
+- Explored **LoRA fine-tuning, prompt strategies, and reliability evaluation**
+- Focus on **clinical usability & business impact**, not just model scores
 
-### **KNN Image Classifier**
-- **Scope**: Engineered a pipeline to preprocess images for KNN classification.
-- **Accuracy**: Achieved ~95% accuracy using 3D matrix calculations.
+### ✈️ Agentic AI Assistant (Hackathon)
+- Designed a **multi-agent, tool-using AI system** for real-world product discovery
+- Integrated RAG + web search for freshness and grounding
+- Emphasis on **system design, orchestration, and UX**, not just generation
 
----
-
-## 🏆 Achievements
-- 🌟 Recognized for innovative problem-solving in data analysis and process efficiency improvements.
-- 🏅 Successfully boosted model performance in multiple roles across various sectors.
-
----
-
-## 🐾 About Me
-
-- **Dog Person** 🐶
-- **Lego Fan** 🧩
-- **Outdoors Lover** 🏞️ (Golf, Hiking, Swimming)
-- **Music Lover** 🎶 (K-pop and Jazz)
-- **Nintendo Switch Fan** 🎮
-- **Home Design Enthusiast** 🏠
+### 📊 Customer Experience Analytics (Industry Internship)
+- Built **Power BI dashboards** tracking NPS, CSAT, and engagement
+- Designed clean **semantic models** across CRM & survey data
+- Translated ambiguous business questions into measurable KPIs
+- Enabled leadership to identify drivers of satisfaction & retention
 
 ---
 
-## 📬 Let's Connect!
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiayi-li-ellie)
-- 📧 Email: [elliejiay1@uchicago.edu](mailto:elliejiay1@uchicago.edu)
-- 📧 Personal Email: [jiayi.li.ellie@gmail.com](mailto:jiayi.li.ellie@gmail.com)
-- 🌐 GitHub: [EllieLiLiLi](https://github.com/EllieLiLiLi)
+## 💼 How I Think About Roles
+
+I see my skill set as a **spectrum**, not a single box:
+
+- **Data Scientist** → modeling, experimentation, ML & LLM systems  
+- **Applied AI** → GenAI, RAG, agents, reliability & deployment thinking  
+- **DA / BIE** → analytics rigor, dashboards, stakeholder communication  
+
+I’m comfortable operating anywhere along this spectrum, depending on the problem.
 
 ---
 
-> *"Turning Data into Decisions, Driving Business Forward."* – Ellie Li
+## 📈 What I’m Working On Now
+
+- Advanced ML & AI coursework (UChicago)
+- LLM system reliability & evaluation
+- Improving end-to-end ML + analytics project polish
+- Preparing for **DS / Applied AI / Analytics roles**
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EllieLiLiLi&show_icons=true&theme=radical)
+## 📫 Let’s Connect
+
+- GitHub: [github.com/EllieLiLiLi](https://github.com/EllieLiLiLi)
+- LinkedIn: *(add link if you want)*
+- Email: *(optional)*
+
+Thanks for stopping by!
